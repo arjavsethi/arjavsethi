@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arjavsethi
 - 👀 I’m interested in ...Web Devlipment using Django,Python
-- 🌱 I’m currently learning ...Django
+- 🌱 I’m currently learning ...ReactJs
 - 💞️ I’m looking to collaborate on ...projects on Django 
 - 📫 How to reach me ...Feel free to drop an email at arjavsethi07@gmail.com
 
